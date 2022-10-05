@@ -1,2 +1,2 @@
 # Data-Analysis-Tableau
-Data Analysis using Tableau
+Sales Insights Data Analysis using MySQL and Tableau.
